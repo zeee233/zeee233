@@ -8,7 +8,5 @@ Here are some ideas to get you started:
 - :mortar_board: I’m currently studying at Duke University in Computer Engineering
 - :computer: I am good at C++ OO design & Java & Python, web development, system programming
 - :mailbox: How to reach me: [Zhihao@LinkedIn](https://www.linkedin.com/in/zhihao-zou/)
-- :violin: **Fun Facts**:
-  - 🍚 I Love cooking 
-  - 📷 Enjoy taking pictures
+- :violin: Fun fact: I Love cooking :rice: and taking pictures :camera:
 
